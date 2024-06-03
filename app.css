@@ -1,0 +1,74 @@
+body{
+    background: #faedcd ;
+}
+#myname{
+    text-align: center;
+    color:  #eb052b;
+    text-shadow: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+    font-weight: bolder;
+    font-size: 98px;
+}
+.header1{
+    text-transform: capitalize;
+    font-family:'Tahoma';
+    color:#349d03;
+    text-shadow: black;
+    font-weight:900;
+    font-size: 69px;
+}
+.para{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #000000;
+    text-shadow: black;
+    font-weight:750px;
+    font-size: 30px;
+    text-transform:uppercase;
+}
+.parag{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #231942;
+    text-shadow: black;
+    font-weight:750px;
+    font-size: 30px;
+    text-transform:uppercase;
+}
+.link{
+    font-family: 'palantino linotype';
+    line-height: 60px;
+    font-weight: bold;    
+    font-size: 35px;
+}
+#linkup{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 40px;
+    color: #ff7b00;
+    text-shadow: black;
+}
+button{
+    display: block;
+    width: 100%;
+    border: none;
+    background-color: #03045e;
+    padding: 14px 28px;
+    font-size: 28px;
+    color: aliceblue;
+    cursor: pointer;
+    text-align: center;
+    }
+#end{
+    font-family:'palatino linotype';
+    font-size: 45px;
+    color: #f72585;
+    text-shadow: black;
+    text-transform: none;
+    text-align: center;
+    text-decoration: wavy;
+}
+.disc{
+    font-size: 23px;
+    color: #000000;
+    text-shadow: #000000;
+}
